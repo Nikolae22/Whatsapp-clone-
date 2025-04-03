@@ -1,0 +1,23 @@
+
+dopo aver aviato docker kecycloakc
+localhost:9090
+and login user admin
+
+1)crea new real
+whatsapp-clone
+
+
+2)clients: new one
+clietId: whatsapp-clone-app
+name: quello che vuoi
+
+quando sei in loginSetting
+
+valid redirect urls http://localhost/4200/*  questo perche e il fornt e back end
+e lo copiamo sia nel root che nel home
+
+save
+
+3) realms setting
+openId endpoint configuration e li troviamo il link che ci serv
+issurer: questo we need
